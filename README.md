@@ -107,7 +107,7 @@ __NOTE(S)__:
         
         __NOTE(S)__:
         - Custom logs could be created but `Forwarded Events` is selected by default.
-        - Click [here](./Creating Custom Logs.md) to create custom logs.
+        - Click [here](./Creating%20Custom%20Logs.md) to create custom logs.
 
      4. Select `Subscription type and source computers`:
 
