@@ -1,4 +1,4 @@
-# Setting up a  Windows Event Collector to collect Security Logs
+# Setting up a  Windows Event Collector
 
 ## __ENVIRONMENT:__
 
@@ -14,8 +14,8 @@ __NOTE(S)__:
 ---
 
 ## __ASSUMPTIONS:__
-### i. The Source Machine (MSEDGEWIN10) is part of a Domain Controller (WIN-BO2CT95INDP)
-
+### i.  The Source Machine (MSEDGEWIN10) is part of a Domain Controller (WIN-BO2CT95INDP).
+### ii. This guide uses __*Security Logs*__ as an example.
 ---
 
 ## __PROCEDURE:__
