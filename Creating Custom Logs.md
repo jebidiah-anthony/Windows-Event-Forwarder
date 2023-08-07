@@ -47,8 +47,8 @@ __NOTE(S)__:
          Name | `WEF-Events`
          Symbol | `WEF_Events`
          GUID | Press `New` beside the input field
-         Resources | `C:\Windows\System32\WEF-Events.dll`
-         Messages | `C:\Windows\System32\WEF-Events.dll`
+         Resources | `C:\Windows\System32\WEF_Events.dll`
+         Messages | `C:\Windows\System32\WEF_Events.dll`
 
       3. On the right panel, click on `Save`.
 
